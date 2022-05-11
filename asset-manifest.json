@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/coding-bootcamp-testimonials-slider-master/static/js/main.a1ae894f.js",
+    "static/media/image-john.jpg": "/coding-bootcamp-testimonials-slider-master/static/media/image-john.5253a557aa7d00d8466f.jpg",
+    "static/media/image-tanya.jpg": "/coding-bootcamp-testimonials-slider-master/static/media/image-tanya.f54c06576a4cdc261099.jpg",
+    "index.html": "/coding-bootcamp-testimonials-slider-master/index.html",
+    "static/media/icon-prev.svg": "/coding-bootcamp-testimonials-slider-master/static/media/icon-prev.f72bba8e1f8b7df258c2f5d918944b16.svg",
+    "static/media/icon-next.svg": "/coding-bootcamp-testimonials-slider-master/static/media/icon-next.0aa189dbfa66ca43c7a2b7c1915624e0.svg",
+    "main.a1ae894f.js.map": "/coding-bootcamp-testimonials-slider-master/static/js/main.a1ae894f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a1ae894f.js"
+  ]
+}
