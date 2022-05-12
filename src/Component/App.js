@@ -5,8 +5,6 @@ import Btn from "./Btn";
 const App = () => {
   const [position, setPosition] = useState(0);
 
-  //   const getUserLength = () => {};
-
   const updatePosition = (position = false) => {
     if (position === true) {
       setPosition(position--);

@@ -16,14 +16,15 @@ const Testimonials = ({ position }) => {
         <div className="testimonial__inner">
           <blockquote className="testimonial__quote">{user.quote}</blockquote>
           <div className="user-box">
-            <h1 className="name">{user.name}</h1>
+            <h1 className="text-3xl font-bold bg-red-500 underline">
+              {user.name}
+            </h1>
             <p className="title">{user.title}</p>
           </div>
         </div>
       </div>
     );
   });
-
   return <div>{testimonials[position]}</div>;
 };
 
