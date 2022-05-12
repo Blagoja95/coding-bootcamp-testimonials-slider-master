@@ -12,7 +12,7 @@ const Btn = ({ updatePosition }) => {
   };
 
   return (
-    <div className="btns">
+    <div className="btns bg-red flex gap-12 p-4 absolute top-1/2 left-1/4 -translate-y-6 translate-x-8">
       <button className="btn btn--left" onClick={leftClick}>
         <img
           className="bnt__img bnt__img--left"

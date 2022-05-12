@@ -18,7 +18,8 @@ const App = () => {
   };
 
   return (
-    <main className="component">
+    //  bg-curve bg-no-repeat bg-bottom
+    <main className="h-full component mx-auto mt-8 max-w-xs relative">
       <Body position={position} />
       <Btn updatePosition={updatePosition} />
     </main>
